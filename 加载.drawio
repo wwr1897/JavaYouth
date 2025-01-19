@@ -1,14 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="第 1 页" id="CdWZvhjt2Ojk2qD33M8-">
-    <mxGraphModel dx="454" dy="1435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xypgOO0hO4B5yfVyeNox-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="180" width="480" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="xypgOO0hO4B5yfVyeNox-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-100" width="120" height="60" as="geometry" />
+        <mxCell id="xypgOO0hO4B5yfVyeNox-2" value="&lt;pre style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; border-radius: 6px; word-break: normal; min-height: 52px; text-align: start; color: rgb(31, 35, 40);&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; border-radius: 6px; word-break: normal; min-height: 52px; color: rgb(31, 35, 40);&quot;&gt;&lt;font face=&quot;ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot; color=&quot;#1f2328&quot;&gt;&lt;span style=&quot;font-size: 13.6px; line-height: 100%;&quot;&gt;public class ClassInitTest {&lt;br&gt;   private static int num = 1;&lt;br&gt;&lt;br&gt;   static{&lt;br&gt;       num = 2;&lt;br&gt;       number = 20;&lt;br&gt;   }&lt;br&gt;   private static int number = 10;&lt;br&gt;&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(ClassInitTest.num);//2&lt;br&gt;    }&lt;br&gt;}&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: light-dark(rgb(246, 248, 250), rgb(23, 25, 27));&quot; face=&quot;var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace)&quot; color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&lt;span style=&quot;font-size: 13.6px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-230" width="430" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xypgOO0hO4B5yfVyeNox-4" value="&lt;font face=&quot;ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.6px;&quot;&gt;ClassInitTest.class file&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-260" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
